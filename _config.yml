@@ -7,6 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
+title:            'Code.log'
+tagline:          ''
+description:      'บันทึกการเรียนรู้เพื่อแบ่งปัน'
+url:              http://schalermthai.github.io
+baseurl:          /
 
 author:
   name:           'Salah Chalermthai'
