@@ -1,0 +1,14 @@
+.post p {
+  line-height: 1.5;
+}
+
+@font-face {
+  font-family: 'boon';
+  src: url('boon-300.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: "boon", "PT Sans", Helvetica, Arial, sans-serif;
+}
